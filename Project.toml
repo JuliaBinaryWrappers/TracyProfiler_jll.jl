@@ -1,6 +1,6 @@
 name = "TracyProfiler_jll"
 uuid = "0c351ed6-8a68-550e-8b79-de6f926da83c"
-version = "0.9.1+1"
+version = "0.9.1+2"
 
 [deps]
 Xorg_kbproto_jll = "060dd47b-79ec-5ba1-a7b2-f4f2f7dcdd0f"
