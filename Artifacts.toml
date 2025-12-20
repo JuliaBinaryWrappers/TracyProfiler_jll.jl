@@ -1,114 +1,114 @@
 [[TracyProfiler]]
 arch = "aarch64"
-git-tree-sha1 = "29589b5d11821a04dc02cbf1c7adb82998ab7160"
+git-tree-sha1 = "9ec6af8950ad4016c34d0a9e3636dfea111b7a39"
 os = "macos"
 
     [[TracyProfiler.download]]
-    sha256 = "0bf5e9531265e46da9644c6e48b2f61debd35021d6dd665772a706a56d8bb045"
-    url = "https://github.com/JuliaBinaryWrappers/TracyProfiler_jll.jl/releases/download/TracyProfiler-v0.13.1+0/TracyProfiler.v0.13.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "d2b8a34b335dcfe29534d1796651046d67b5fee9fba35b274c8e97da62433785"
+    url = "https://github.com/JuliaBinaryWrappers/TracyProfiler_jll.jl/releases/download/TracyProfiler-v0.13.1+1/TracyProfiler.v0.13.1.aarch64-apple-darwin.tar.gz"
 [[TracyProfiler]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dd28c09149520968d3278a53329000e4b707351b"
+git-tree-sha1 = "1b0c939cfa9d5faa391a2a0db145845aff67abdb"
 libc = "glibc"
 os = "linux"
 
     [[TracyProfiler.download]]
-    sha256 = "d6eec4b34bd7108f2baf20e1fc3fc5a92f16323b13c7805e8c61405d41668744"
-    url = "https://github.com/JuliaBinaryWrappers/TracyProfiler_jll.jl/releases/download/TracyProfiler-v0.13.1+0/TracyProfiler.v0.13.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "b4d12ab97b58ed907605bd51df2fcf729e3d6fe2603b20ea4dfdd68885317110"
+    url = "https://github.com/JuliaBinaryWrappers/TracyProfiler_jll.jl/releases/download/TracyProfiler-v0.13.1+1/TracyProfiler.v0.13.1.aarch64-linux-gnu-cxx11.tar.gz"
 [[TracyProfiler]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bc434cdfca6f7aaedfe9eeb6034bfffe0a95253a"
+git-tree-sha1 = "7f6adb7f7a1abdc65252f64c4b040ad910fbe979"
 libc = "musl"
 os = "linux"
 
     [[TracyProfiler.download]]
-    sha256 = "d0835e057d8774a0a77b0482c40a286dc74e195a881e74259494879f64f2b4fc"
-    url = "https://github.com/JuliaBinaryWrappers/TracyProfiler_jll.jl/releases/download/TracyProfiler-v0.13.1+0/TracyProfiler.v0.13.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "a19b246016e3fcbaaaa67e929d52698bf55f267ec955779fdaf1ad75b77b2395"
+    url = "https://github.com/JuliaBinaryWrappers/TracyProfiler_jll.jl/releases/download/TracyProfiler-v0.13.1+1/TracyProfiler.v0.13.1.aarch64-linux-musl-cxx11.tar.gz"
 [[TracyProfiler]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e089351fcea2389f89f637ce6bb813afd4d30dd0"
+git-tree-sha1 = "2c1daf872ebb4e763bca6763ff4601badc0ff651"
 libc = "glibc"
 os = "linux"
 
     [[TracyProfiler.download]]
-    sha256 = "f8d70f58b7cebbf89d0a7eb94fe49fd925aec1531f66c93c6b2538a02655ad90"
-    url = "https://github.com/JuliaBinaryWrappers/TracyProfiler_jll.jl/releases/download/TracyProfiler-v0.13.1+0/TracyProfiler.v0.13.1.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "930bba4772f89cf95dec397da9b86330f141b09644a2ef316e6a9cad0c1f5579"
+    url = "https://github.com/JuliaBinaryWrappers/TracyProfiler_jll.jl/releases/download/TracyProfiler-v0.13.1+1/TracyProfiler.v0.13.1.i686-linux-gnu-cxx11.tar.gz"
 [[TracyProfiler]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7eb4d5feaba85d13503c5efa38795286fbe69e1a"
+git-tree-sha1 = "d327736824570c59d953ccefe77026a0eb903ca4"
 libc = "musl"
 os = "linux"
 
     [[TracyProfiler.download]]
-    sha256 = "3ae5bdacbce5aec928da6ea93acd18c84d9e765dd8b016979eba1d9452108690"
-    url = "https://github.com/JuliaBinaryWrappers/TracyProfiler_jll.jl/releases/download/TracyProfiler-v0.13.1+0/TracyProfiler.v0.13.1.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "c0f78e527efdff2bc924eb39d1b2596aaae3bc956487ee7cb42ca1f9049ae8e0"
+    url = "https://github.com/JuliaBinaryWrappers/TracyProfiler_jll.jl/releases/download/TracyProfiler-v0.13.1+1/TracyProfiler.v0.13.1.i686-linux-musl-cxx11.tar.gz"
 [[TracyProfiler]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0bfb1d8611311c13b37e7f3e45cf55ad3f3b7ea6"
+git-tree-sha1 = "fece59a229b9595083702915213258d4e2d979fb"
 os = "windows"
 
     [[TracyProfiler.download]]
-    sha256 = "ea6c94e8b53d4d6fe2cdb22163055670d26fefd473094db055b26663ce383075"
-    url = "https://github.com/JuliaBinaryWrappers/TracyProfiler_jll.jl/releases/download/TracyProfiler-v0.13.1+0/TracyProfiler.v0.13.1.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "42bb05521068a4b1a2703a53cae7d4b6386df494aa3ee626ae57308dd6f545c9"
+    url = "https://github.com/JuliaBinaryWrappers/TracyProfiler_jll.jl/releases/download/TracyProfiler-v0.13.1+1/TracyProfiler.v0.13.1.i686-w64-mingw32-cxx11.tar.gz"
 [[TracyProfiler]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4978693f6e359def71466155c64042bce85240c5"
+git-tree-sha1 = "2654b6459082611cf3011138f629bc328a9f85fe"
 libc = "glibc"
 os = "linux"
 
     [[TracyProfiler.download]]
-    sha256 = "003a9072fc05be82c562a62433ddc4b35818d9b7ff7bfe03b3ee28e2aaff03fc"
-    url = "https://github.com/JuliaBinaryWrappers/TracyProfiler_jll.jl/releases/download/TracyProfiler-v0.13.1+0/TracyProfiler.v0.13.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "2cbe95f839af79fe87ebf337aa10f2a1121d4753569c616568940fbb0a709114"
+    url = "https://github.com/JuliaBinaryWrappers/TracyProfiler_jll.jl/releases/download/TracyProfiler-v0.13.1+1/TracyProfiler.v0.13.1.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[TracyProfiler]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "85bfabec58093e3d70580e4193f9fe59069bbe67"
+git-tree-sha1 = "3735755d3380a0ac5d2f4c9dc8d4fbc477596a7f"
 libc = "glibc"
 os = "linux"
 
     [[TracyProfiler.download]]
-    sha256 = "ce51b198f1b2c2be608053930242678e50ee610547e23b979e522381d9c6307e"
-    url = "https://github.com/JuliaBinaryWrappers/TracyProfiler_jll.jl/releases/download/TracyProfiler-v0.13.1+0/TracyProfiler.v0.13.1.riscv64-linux-gnu-cxx11.tar.gz"
+    sha256 = "547cfe6779f3c603ca500a79783d64c483d290149709c49448f8de6574d549e8"
+    url = "https://github.com/JuliaBinaryWrappers/TracyProfiler_jll.jl/releases/download/TracyProfiler-v0.13.1+1/TracyProfiler.v0.13.1.riscv64-linux-gnu-cxx11.tar.gz"
 [[TracyProfiler]]
 arch = "x86_64"
-git-tree-sha1 = "1ae82fcd0e37278e74b5fe4d606b314388579723"
+git-tree-sha1 = "d1ed102f1027cbdc775bee314ca2f8152d36e740"
 os = "macos"
 
     [[TracyProfiler.download]]
-    sha256 = "8ee29500ea6c38c2ffb705fed668167bc733c1a7406525d24128b38e36cc0a6a"
-    url = "https://github.com/JuliaBinaryWrappers/TracyProfiler_jll.jl/releases/download/TracyProfiler-v0.13.1+0/TracyProfiler.v0.13.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "4f18d627468c013976d568c6a3184adfefbe9ffe6cbdd635a4f4a1b5d63a36e2"
+    url = "https://github.com/JuliaBinaryWrappers/TracyProfiler_jll.jl/releases/download/TracyProfiler-v0.13.1+1/TracyProfiler.v0.13.1.x86_64-apple-darwin.tar.gz"
 [[TracyProfiler]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "95254d6186564ae17d97302e8c8e0bfca09d774d"
+git-tree-sha1 = "7ee083d26d594ca7cffd612cabcd6810995599e3"
 libc = "glibc"
 os = "linux"
 
     [[TracyProfiler.download]]
-    sha256 = "eb50543ef59b273c7f77de42ea6a5e8f1ce16aea356c3f41b8c0b1bc2b90b86b"
-    url = "https://github.com/JuliaBinaryWrappers/TracyProfiler_jll.jl/releases/download/TracyProfiler-v0.13.1+0/TracyProfiler.v0.13.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "bcb20b2a146383cb4ecaf9fda02373db307d8b0d7c929665b7367f671c193623"
+    url = "https://github.com/JuliaBinaryWrappers/TracyProfiler_jll.jl/releases/download/TracyProfiler-v0.13.1+1/TracyProfiler.v0.13.1.x86_64-linux-gnu-cxx11.tar.gz"
 [[TracyProfiler]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e42c8b1dc8456a5a2013ecfa3cc4357a44f13296"
+git-tree-sha1 = "9e0a921c4a657cb6dee0a7f12152540dc249f9c0"
 libc = "musl"
 os = "linux"
 
     [[TracyProfiler.download]]
-    sha256 = "467a8008bc7274e09d952d53969f7291e52291bdf37e8d9d5e492848001231b3"
-    url = "https://github.com/JuliaBinaryWrappers/TracyProfiler_jll.jl/releases/download/TracyProfiler-v0.13.1+0/TracyProfiler.v0.13.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "1e29e3062f604b55af652408d4d4fdffec92edf4603f62333b21f25b432f40cc"
+    url = "https://github.com/JuliaBinaryWrappers/TracyProfiler_jll.jl/releases/download/TracyProfiler-v0.13.1+1/TracyProfiler.v0.13.1.x86_64-linux-musl-cxx11.tar.gz"
 [[TracyProfiler]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b7dee5706fad67e585b9a24fecf9d197b30e39ea"
+git-tree-sha1 = "6da44d2d5aafd5cc1028c202ebe2f781c153e2f5"
 os = "windows"
 
     [[TracyProfiler.download]]
-    sha256 = "77b35c7e66d44b5ddd60009b02ffb93337a8e827cc9ed30036203c0c179eb7b6"
-    url = "https://github.com/JuliaBinaryWrappers/TracyProfiler_jll.jl/releases/download/TracyProfiler-v0.13.1+0/TracyProfiler.v0.13.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "4bc44be03b52e8373f86d2389eea53f016f787c01933d717984ccb01768a04c2"
+    url = "https://github.com/JuliaBinaryWrappers/TracyProfiler_jll.jl/releases/download/TracyProfiler-v0.13.1+1/TracyProfiler.v0.13.1.x86_64-w64-mingw32-cxx11.tar.gz"

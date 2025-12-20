@@ -1,6 +1,6 @@
 name = "TracyProfiler_jll"
 uuid = "0c351ed6-8a68-550e-8b79-de6f926da83c"
-version = "0.13.1+0"
+version = "0.13.1+1"
 
 [deps]
 Xorg_libXcursor_jll = "935fb764-8cf2-53bf-bb30-45bb1f8bf724"
